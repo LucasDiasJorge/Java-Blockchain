@@ -1,3 +1,5 @@
+# Blockchain
+
 Blockchain é uma estrutura de dados distribuída e imutável que registra transações em "blocos" conectados em uma "cadeia" (daí o nome). Ela foi originalmente criada para suportar o Bitcoin, mas agora é usada em várias outras aplicações, como contratos inteligentes, NFTs, sistemas de rastreamento de supply chain, votação digital, entre outros.
 
 ### Como Funciona:
